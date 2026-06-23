@@ -1,7 +1,7 @@
 """
 Sistema de Gestión de Notas de Estudiantes
 Autor: Tu Nombre
-
+ 
 Descripción:
 Este programa permite registrar estudiantes, calcular promedios,
 buscar estudiantes y obtener el promedio general del curso.
